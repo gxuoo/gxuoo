@@ -42,9 +42,9 @@
 
 ## Education
 
-| 시점 | 기관 · 과정 | 상태 |
-| :--- | :--- | :--- |
-| **현재** | **SSAFY · Data Track** | 교육 중 |
+| 시점        | 기관 · 과정                     | 상태      |
+| :---------- | :------------------------------ | :-------- |
+| **현재**    | **SSAFY · Data Track**          | 교육 중   |
 | **2026.08** | **세종대학교 · 소프트웨어학과** | 학사 졸업 |
 
 프론트엔드 프로젝트 경험을 바탕으로, 데이터 처리에 대한 이해를 넓혀가고 있습니다.
@@ -120,12 +120,12 @@ Vitest·Testing Library 테스트 코드와 Playwright E2E 테스트를 구성�
 
 ## Toolkit
 
-| 영역 | 사용 기술 |
-| :--- | :--- |
-| **Frontend** | React · TypeScript · JavaScript · Tailwind CSS · Vite |
-| **State & Forms** | TanStack Query · Zustand · React Hook Form · Zod |
-| **Testing** | Vitest · Testing Library · MSW · Playwright |
-| **Problem Solving** | Python · Java |
+| 영역                | 사용 기술                                             |
+| :------------------ | :---------------------------------------------------- |
+| **Frontend**        | React · TypeScript · JavaScript · Tailwind CSS · Vite |
+| **State & Forms**   | TanStack Query · Zustand · React Hook Form · Zod      |
+| **Testing**         | Vitest · Testing Library · MSW · Playwright           |
+| **Problem Solving** | Python · Java                                         |
 
 **Learning / Data Processing**  
 이미지·텍스트 전처리와 특성 추출, 처리 결과를 이해하기 쉽게 표현하는 방법을 공부하고 있습니다.
