@@ -18,10 +18,6 @@
         처리 중인 상태를 어떻게 알릴지,<br />
         결과를 어떻게 이해하기 쉽게 보여줄지 고민합니다.
       </p>
-      <p>
-        <sub>EMAIL</sub><br />
-        <a href="mailto:rbdud986@gmail.com">rbdud986@<wbr />gmail.com</a>
-      </p>
     </td>
     <td width="40%" valign="top">
       <samp>EXPLORING</samp>
@@ -35,15 +31,14 @@
         이미지·텍스트 전처리와 특성 추출,<br />
         비동기 작업의 상태 표현을 공부하고 있습니다.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" height="20" alt="Python" />
-        <img src="https://img.shields.io/badge/Data_Processing-C57B57?style=flat-square" height="20" alt="Data Processing" />
-      </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="60%">
       <samp>TECH STACK</samp>
+    </td>
+    <td width="40%">
+      <samp>SSAFY DATA TRACK</samp>
     </td>
   </tr>
   <tr>
@@ -62,8 +57,6 @@
         <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&amp;logo=reacthookform&amp;logoColor=white" height="20" alt="React Hook Form" />
         <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white" height="20" alt="Zod" />
       </p>
-    </td>
-    <td width="40%" valign="top">
       <p><strong>Languages</strong></p>
       <p>
         <picture>
@@ -77,6 +70,23 @@
         <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&amp;logo=testinglibrary&amp;logoColor=white" height="20" alt="Testing Library" />
         <img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&amp;logo=mockserviceworker&amp;logoColor=white" height="20" alt="MSW" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" height="20" alt="Playwright" />
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <p><strong>Data Analysis</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" height="20" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" height="20" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" height="20" alt="Matplotlib" />
+      </p>
+      <p><strong>Machine Learning</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" height="20" alt="scikit-learn" />
+      </p>
+      <p><strong>Database &amp; Backend</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" height="20" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" height="20" alt="Django" />
       </p>
     </td>
   </tr>
