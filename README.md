@@ -1,140 +1,109 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;height=200&amp;section=header&amp;text=gxuoo%27s%20GITHUB&amp;fontSize=60&amp;fontAlignY=40&amp;desc=From%20Data%20to%20Interface&amp;descSize=18&amp;descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;height=200&amp;section=header&amp;text=gxuoo%27s%20GITHUB&amp;fontSize=60&amp;fontAlignY=40&amp;desc=From%20Data%20to%20Interface&amp;descSize=18&amp;descAlignY=62&amp;fontColor=2B2440" width="100%" alt="gxuoo's GITHUB — From Data to Interface" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=EAF4EF&amp;height=150&amp;text=From%20Data%20to%20Interface&amp;fontSize=34&amp;fontColor=234B3C&amp;desc=FRONTEND%20DEVELOPMENT%20%20%20DATA%20CURIOSITY&amp;descSize=12&amp;fontAlignY=45&amp;descAlignY=70" width="100%" alt="From Data to Interface — Frontend Development, Data Curiosity" />
+<br /><br />
 
-<h1>임규영</h1>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <samp>FRONTEND DEVELOPER</samp>
+      <h2>임규영</h2>
+      <p>
+        React와 TypeScript로 인터페이스를 만듭니다.<br />
+        데이터가 사용자에게 도달하는 과정에 관심이 있습니다.
+      </p>
+      <p>
+        처리 중인 상태를 어떻게 알릴지,<br />
+        결과를 어떻게 이해하기 쉽게 보여줄지 고민합니다.
+      </p>
+      <p>
+        <sub>EMAIL</sub><br />
+        <a href="mailto:rbdud986@gmail.com">rbdud986@<wbr />gmail.com</a>
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <samp>EXPLORING</samp>
+      <br /><br />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/flow-dark.svg" />
+        <img src="./assets/flow-light.svg" width="100%" alt="Data → State → Interface: 데이터를 처리하고 작업 상태를 거쳐 화면으로 연결하는 흐름" />
+      </picture>
+      <p><strong>데이터가 화면이 되기까지</strong></p>
+      <p>
+        이미지·텍스트 전처리와 특성 추출,<br />
+        비동기 작업의 상태 표현을 공부하고 있습니다.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" height="20" alt="Python" />
+        <img src="https://img.shields.io/badge/Data_Processing-C57B57?style=flat-square" height="20" alt="Data Processing" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <samp>TECH STACK</samp>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <p><strong>Frontend</strong></p>
+      <p>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,tailwind,vite&amp;theme=dark" />
+          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&amp;theme=light" height="36" alt="React, TypeScript, Tailwind CSS, Vite" title="React · TypeScript · Tailwind CSS · Vite" />
+        </picture>
+      </p>
+      <p><strong>State &amp; Forms</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&amp;logo=reactquery&amp;logoColor=white" height="20" alt="TanStack Query" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" height="20" alt="Zustand" />
+        <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&amp;logo=reacthookform&amp;logoColor=white" height="20" alt="React Hook Form" />
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white" height="20" alt="Zod" />
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <p><strong>Languages</strong></p>
+      <p>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,py&amp;theme=dark" />
+          <img src="https://skillicons.dev/icons?i=js,py&amp;theme=light" height="36" alt="JavaScript, Python" title="JavaScript · Python" />
+        </picture>
+      </p>
+      <p><strong>Testing</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&amp;logo=vitest&amp;logoColor=white" height="20" alt="Vitest" />
+        <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&amp;logo=testinglibrary&amp;logoColor=white" height="20" alt="Testing Library" />
+        <img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&amp;logo=mockserviceworker&amp;logoColor=white" height="20" alt="MSW" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" height="20" alt="Playwright" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p><strong>Frontend Developer · 데이터가 화면이 되는 과정에 관심이 있습니다.</strong></p>
+<br />
+
+### GitHub Activity
 
 <p>
-  React와 TypeScript로 인터페이스를 만들고,<br />
-  복잡한 처리 결과를 사용자가 이해하고 판단할 수 있는 형태로 옮깁니다.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gxuoo&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E3A17D&amp;text_color=C9D1D9&amp;icon_color=E3A17D" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gxuoo&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=C57B57&amp;text_color=5C4436&amp;icon_color=C57B57" width="320" align="top" alt="gxuoo의 GitHub 활동 통계" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gxuoo&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=E3A17D&amp;text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxuoo&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=C57B57&amp;text_color=5C4436" width="320" align="top" alt="gxuoo의 저장소에서 사용하는 언어 비율" />
+  </picture>
 </p>
 
-<p><strong>현재 SSAFY Data Track 교육 중</strong></p>
-
-<p>
-  <img src="https://img.shields.io/badge/React-234B3C?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-234B3C?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TanStack_Query-234B3C?style=flat-square&amp;logo=reactquery&amp;logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Python-234B3C?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-</p>
-
-<p>
-  <a href="#profile-education">Education</a> ·
-  <a href="#profile-projects">Projects</a> ·
-  <a href="#profile-toolkit">Toolkit</a>
-</p>
-
-</div>
-
 <br />
 
-화면에 나타나는 결과뿐 아니라, 그 결과가 만들어지는 과정에도 관심이 있습니다.
-프론트엔드를 중심에 두고 데이터가 수집·처리되어 사용자에게 도달하는 흐름을 이해하려고 합니다.
+### User Profile
 
-그 관심은 **처리 중인 상태를 어떻게 알릴지, 실패했을 때 무엇을 안내할지,
-결과를 어떤 근거와 함께 보여줄지**를 고민하는 일로 이어집니다.
-
-<br />
-
-<a name="profile-education"></a>
-
-## Education
-
-| 시점        | 기관 · 과정                     | 상태      |
-| :---------- | :------------------------------ | :-------- |
-| **현재**    | **SSAFY · Data Track**          | 교육 중   |
-| **2026.08** | **세종대학교 · 소프트웨어학과** | 학사 졸업 |
-
-프론트엔드 프로젝트 경험을 바탕으로, 데이터 처리에 대한 이해를 넓혀가고 있습니다.
-
-<br />
-
-<a name="profile-projects"></a>
-
-## Selected Projects
-
-### 01 / It's Mine
-
-**AI 기반 분실물 매칭 서비스**  
-`2026 캡스톤 디자인` · `팀 프로젝트` · `Frontend 담당`
-
-이미지와 텍스트로 분실물과 습득물을 매칭하는 서비스입니다.
-AI 작업이 시작되는 순간부터 사용자가 결과를 비교하고 판단하는 순간까지의 프론트엔드를 담당했습니다.
-
-- **비동기 처리 흐름** — 작업 상태를 폴링하고, 진행·대기·실패·완료에 맞는 화면을 연결했습니다.
-- **이미지 후보 선택** — 사진이 없는 검색 흐름에서 서버가 수집한 후보 이미지를 비교·선택하는 UI를 구현했습니다.
-- **매칭 근거 표현** — 텍스트·이미지별 점수와 AI 설명을 함께 보여주고, 모바일 캐러셀과 데스크톱 비교 화면을 구성했습니다.
-
-`React` `TypeScript` `TanStack Query` `Zustand` `Tailwind CSS`
-
-<details>
-<summary><strong>설계와 구현 자세히 보기</strong></summary>
-
-<br />
-
-**작업 상태에 따른 폴링 제어**
-
-완료·실패 등 종료 상태에서는 폴링을 중단하고, 사용자 확인이 필요한 특정 단계에서는 조건에 따라 일시 정지하도록 구성했습니다.
-진행 식별자와 선택 정보는 `sessionStorage`에 보존했습니다.
-
-**상태 관리의 역할 분리**
-
-TanStack Query로 작업 상태·후보·매칭 결과를 조회하고,
-Zustand로 사용자 선택과 진행 정보를 관리했습니다.
-
-**인증과 테스트**
-
-OAuth 인증 흐름과 API 연동을 담당했습니다.
-Vitest·Testing Library 테스트 코드와 Playwright E2E 테스트를 구성했습니다.
-
-> 담당 범위는 프론트엔드 UI/UX와 API 연동입니다.
-> AI 모델 개발·학습과 백엔드 검색 로직은 다른 팀원이 담당했습니다.
-
-</details>
-
-<!-- It's Mine의 공개 가능한 실제 저장소 URL을 확인한 뒤 Repository 링크를 추가하세요. -->
-
-<br />
-
-### 02 / Sejong ZupZup
-
-**지도 기반 캠퍼스 분실물 서비스**  
-`팀 프로젝트` · `Frontend 참여`
-
-세종대학교 구성원이 분실물을 등록하고 찾을 수 있도록 돕는 서비스입니다.
-여러 단계의 입력을 하나의 등록 흐름으로 연결하는 프론트엔드 구현에 참여했습니다.
-
-- **다단계 등록 폼** — 라우팅 기반 단계 이동과 등록 상태 관리를 구현했습니다.
-- **입력과 업로드** — 입력 검증, 이미지 업로드, FormData 기반 API 연동을 다뤘습니다.
-- **테스트 코드** — MSW로 API 응답을 모킹하고 Vitest 기반 UI·훅 테스트 코드를 작성했습니다.
-
-`React` `TypeScript` `Zustand` `MSW` `Vitest`
-
-[Repository ↗](https://github.com/greedy-team/zup-zup-fe)
-
-<br />
-
-<a name="profile-toolkit"></a>
-
-## Toolkit
-
-| 영역                | 사용 기술                                             |
-| :------------------ | :---------------------------------------------------- |
-| **Frontend**        | React · TypeScript · JavaScript · Tailwind CSS · Vite |
-| **State & Forms**   | TanStack Query · Zustand · React Hook Form · Zod      |
-| **Testing**         | Vitest · Testing Library · MSW · Playwright           |
-| **Problem Solving** | Python · Java                                         |
-
-**Learning / Data Processing**  
-이미지·텍스트 전처리와 특성 추출, 처리 결과를 이해하기 쉽게 표현하는 방법을 공부하고 있습니다.
-
-<br />
-
----
-
-<p align="center">
-  <a href="https://github.com/greedy-team">GREEDY</a> ·
-  <a href="https://github.com/gxuoo/Algorithm">Algorithm — 풀이와 복습 기록</a>
-</p>
+| 구분            | 내용                                                                                                                                                                               |
+| :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **학력**        | **세종대학교 · 소프트웨어학 학사**<br />2020.03.02 – 2026.08.21                                                                                                                    |
+| **교육**        | **SSAFY · Data Track 16기**<br />교육 중                                                                                                                                           |
+| **동아리 활동** | **[GREEDY 개발 동아리](https://github.com/greedy-team)**<br />프론트엔드 스터디 · 스터디 리드 · 코드 리뷰어<br /><br />**세콕세콕 배드민턴 동아리**<br />사무부 운영진 · 1년 6개월 |
+| **수상**        | **제12회 세종대학교 SW·AI 해커톤**<br />장려상 · 2025.06.26                                                                                                                        |
