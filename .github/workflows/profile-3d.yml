@@ -1,4 +1,4 @@
-name: Generate Tetris contribution graph
+name: Generate 3D contribution graph
 
 on:
   schedule:
@@ -16,17 +16,17 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      # Tetris는 아직 정식 릴리스(v5.3.2)에 없어 main의 커밋(2026-11-11)으로 고정
-      - name: Generate Tetris SVGs
-        uses: abozanona/pacman-contribution-graph@70945878b1118303b37b88060fc7145e1a57d7b1
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: "tetris"
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
+      # main에 매일 커밋이 쌓이지 않도록 결과물은 output 브랜치에만 올린다
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

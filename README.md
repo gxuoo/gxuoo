@@ -1,11 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gxuoo/gxuoo/output/tetris-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gxuoo/gxuoo/output/tetris-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/gxuoo/gxuoo/output/tetris-contribution-graph.svg" width="100%" alt="gxuoo의 GitHub 잔디로 진행되는 테트리스 애니메이션" />
-</picture>
+## From Data to Interface
 
-## 안녕하세요, 프론트엔드 개발자 임규영입니다.
-
+안녕하세요, 개발에 관심 있는 임규영입니다.<br />
 데이터가 수집되고, 분석되고, 화면에 닿기까지의 과정 전체에 관심이 있습니다.
 
 - **Frontend** — React와 TypeScript로 화면을 만듭니다. 실시간 데이터 처리를 직접 구현해 보면서, 들어오는 데이터를 사용자에게 어떻게 보여줘야 한눈에 읽힐지 고민하고 있습니다.
@@ -13,6 +8,12 @@
 - **Data Engineering** — Kafka, Spark, Flink로 데이터를 수집하고 처리하는 파이프라인을 배우고 있습니다.
 
 현재 **SSAFY Data Track 16기**에서 교육받고 있습니다.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gxuoo/gxuoo/output/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gxuoo/gxuoo/output/profile-green-animate.svg" />
+  <img src="https://raw.githubusercontent.com/gxuoo/gxuoo/output/profile-green-animate.svg" width="100%" alt="gxuoo의 GitHub 기여 기록을 3D로 쌓아 올린 그래프" />
+</picture>
 
 ## Tech Stack
 
